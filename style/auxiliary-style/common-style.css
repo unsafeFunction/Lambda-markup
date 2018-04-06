@@ -1,0 +1,69 @@
+.first-name, .left-devider-block, .dishs, .second-dish,
+.second-dish-price, .second-menu-block, .fifth-dish-title, .right-first-dish, .right-first-block, .right-second-dish, .right-second-block, .right-firsst-dish, .right-first-price, .right-third-dish, .right-first-price, .right-second-price, .right-fouth, .right-fouse-price, .reservation-title, .first-title, .second-title, .third-title, .fouth-tiitle {
+    font-family: YersevaOne;
+    color: #cc9900;
+}
+.right-first-line,.dish-line,.fifth-dish-line{
+    width: 430px;
+    height: 2px;
+    background-image: url("../../image/MenuSection/TzasikiLine.png");
+}
+.left-devider-block,.right-first-devider,.right-second-devider,.reservation-devider {
+    width: 247px;
+    height: 24px;
+    background-image: url("../../image/PromoSection/AppetisersDivider.png");
+}
+.comment-devider,.devider{
+    width: 247px;
+    height: 24px;
+    background: url("../../image/ReviewsSection/ReviewDivider.png");
+}
+.bread,.serial,.spices{
+    background-color: rgba(48, 52, 54, 0.5);
+    width: 114px;
+    height: 114px;
+    border-radius: 50%;
+}
+.spices-bg,.bread-bg,.serial-bg{
+    width: 115px;
+    height: 115px;
+}
+.booking-button,.menu-button{
+    padding: 17px;
+    box-sizing: border-box;
+    width: 228px;
+    height: 57px;
+    font-family: Lato-Black;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.third-menu-block,.right-second-special{
+    text-align: center;
+    color: white;
+    width: 69px;
+    height: 22px;
+    background-image: url("../../image/MenuSection/SpecialComent.png");
+}
+.cherry-reserv,.meet-reserv{
+    width: 270px;
+    height: 507px;
+}
+.first-input,.second-input{
+    position: absolute;
+    width: 200px;
+    font-size: 16px;
+    height: 0.75%;
+    color: rgba(153, 153, 153, 0.7);
+    border: rgba(153, 153, 153, 0.9) solid 1px;
+}
+.third-input,select{
+    font-family: YersevaOne;
+    font-size: 16px;
+    color: rgba(153, 153, 153, 0.7);
+    height: 22%;
+    border: solid 1px;
+    width: 197px;
+}

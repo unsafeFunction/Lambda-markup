@@ -1,0 +1,49 @@
+.dish {
+    position: absolute;
+    top: 15.9%;
+    border-radius: 50%;
+    width: 620px;
+    height: 620px;
+    background-image: url("../../image/AboutSection/dish.png");
+    margin-left: 46.5%;
+}
+
+.about-title {
+    padding-top: 8%;
+    font-family: YersevaOne;
+    font-weight: bold;
+    font-size: 32px;
+    color: #cc9900;
+    margin-left: 17.4%;
+    width: 28%;
+    text-align: center;
+}
+
+.about-divider {
+    margin-top: 1.5%;
+    margin-left: 23.5%;
+    width: 247px;
+    height: 24px;
+    background-image: url("../../image/AboutSection/Divider.png");
+}
+
+.about-describe {
+    overflow: hidden;
+    max-height: 113px;
+    max-width: 500px;
+    font-family: OpenSans-Regular;
+    font-size: 15px;
+    text-align: center;
+    left: 0;
+    width: 500px;
+    margin-left: 15.5%;
+    margin-top: 1%;
+}
+
+.cooker {
+    margin-left: 26.5%;
+    margin-top: 3%;
+    width: 219px;
+    height: 221px;
+    background-image: url("../../image/AboutSection/cook.png");
+}

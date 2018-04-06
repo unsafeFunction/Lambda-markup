@@ -1,0 +1,9 @@
+footer {
+
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    width: 1600px;
+    height: 260px;
+    background-color: #191919;
+}

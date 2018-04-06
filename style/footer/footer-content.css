@@ -1,0 +1,70 @@
+.opening-title {
+    font-family: YersevaOne;
+    margin-top: 31.5%;
+    color: white;
+    font-size: 21px;
+}
+.describe-about {
+    margin-top: 3%;
+    margin-left: 26.7%;
+}
+.location-title {
+    font-family: YersevaOne;
+    margin-top: 31.5%;
+    color: white;
+    font-size: 21px;
+}
+.work-time {
+    margin-left: 35px;
+}
+
+.location {
+    margin-left: 140px;
+}
+.opening-devider {
+    right:17%;
+    position: relative;
+    width: 199px;
+    height: 19px;
+    background: url("../../image/footer/FooterDevider.png");
+    margin-top: 10.4%;
+}
+.payment-method {
+    width: 120px;
+    height: 15px;
+    background: url("../../image/ReservationSection/Payment.png");
+    margin-top: 41%;
+    margin-left: 8%;
+}
+
+.location {
+    margin-left: 140px;
+}
+
+.location-devider {
+    width: 199px;
+    height: 19px;
+    background: url("../../image/footer/FooterDevider.png");
+    margin-top: 9.4%;
+    right:17%;
+    position: relative;
+}
+
+.location-about {
+    overflow: hidden;
+    max-height: 64px;
+    max-width: 200px;
+    margin-top: 7.5%;
+    position: relative;
+    right:17%;
+    font-size: 18px;
+    text-align: center;
+    color: #dde0df;
+}
+
+.social-links {
+    width: 89px;
+    height: 17px;
+    margin-top: 11%;
+    margin-left: 15%;
+}

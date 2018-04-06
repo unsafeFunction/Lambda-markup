@@ -1,0 +1,9 @@
+.wrapper {
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(232, 232, 232, 0.5));
+    width: 1600px;
+}
+
+.wrapper-pattern {
+    background: linear-gradient(to right, rgba(254, 254, 254, 0.3), rgba(233, 233, 233, 0.3));
+    width: 1600px;
+}

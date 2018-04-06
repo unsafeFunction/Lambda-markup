@@ -1,0 +1,74 @@
+.ingredient-block {
+    position: absolute;
+    width: 1600px;
+    height: 758px;
+    background-image: url("../../image/IngredientsSection/IngredientsBG.jpg");
+
+}
+
+.block-with-ingredients {
+    width: 570px;
+    height: 557px;
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 6.1%;
+    margin-left: 51%;
+}
+
+.ingredients-title {
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: YersevaOne;
+    font-weight: bold;
+    margin-left: 15.7%;
+    padding-top: 5%;
+}
+.ingredients-title h2{
+    margin-left: 5%;
+}
+.ingredient-describe {
+    overflow: hidden;
+    max-height: 120px;
+    max-width: 500px;
+    font-size: 17px;
+    font-weight: normal;
+    font-family: OpenSans-Regular;
+    text-align: center;
+    width: 500px;
+    margin-top: 2.5%;
+}
+.ingredient-describe p{
+    padding-right:95px;
+}
+.devider {
+    margin-left: 12%;
+}
+.serial {
+    margin-left: 3%;
+}
+.serial-bg {
+    margin-top: 50%;
+    background-image: url("../../image/IngredientsSection/DeskribeSerial.png");
+}
+
+.bread {
+    position: absolute;
+    top:63%;
+    left:1%;
+    margin-left: 65%;
+}
+
+.bread-bg {
+    background-image: url("../../image/IngredientsSection/DeskribeBread.png");
+}
+
+.spices {
+    position: absolute;
+    top:63%;
+    left:37.7%;
+    margin-left: 36.7%;
+}
+
+.spices-bg {
+    background-image: url("../../image/IngredientsSection/DeskribeSpices.png");
+}

@@ -1,0 +1,227 @@
+@import "../auxiliary-style/common-style.css";
+.menu-block {
+    overflow: hidden;
+    max-width: 1650px;
+    max-height: 1000px;
+    display: inline-block;
+    margin-top: 47.4%;
+    width: 1600px;
+    height: 1000px;
+    background: rgba(246, 246, 246, 0.5) url("../../image/MenuSection/MenuPattern.png");
+}
+.first-name {
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 8.5%;
+    margin-left: 34.8%;
+}
+
+.left-devider-block {
+    font-weight: bold;
+    margin-left: 29%;
+    margin-top: 2%;
+}
+
+.dishs {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 3.5%;
+}
+
+.first-dish-price {
+    padding-left: 49%;
+}
+
+.dish-line {
+    margin-left: 18%;
+    margin-top: 0.7%;
+}
+
+.dish-describe {
+    margin-left: 18%;
+    font-size: 17px;
+    margin-top: 0.7%;
+}
+
+.second-dish {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 3.5%;
+}
+
+.second-dish-price {
+    padding-left: 36%;
+}
+
+.third-dish-price {
+    margin-left: 37%;
+}
+
+.second-menu-block {
+    font-size: 35px;
+    margin-left: 25.8%;
+}
+
+.second-menu-block {
+    font-weight: bold;
+    margin-left: 38.5%;
+    font-size: 35px;
+    padding-top: .5%;
+}
+
+.fourth-dish-price {
+    padding-left: 41%;
+}
+
+.seccond-dish-price {
+    padding-left: 42.7%;
+}
+
+.fifth-dish {
+    margin-top: 0;
+    margin-left: 18%;
+    width: 455px;
+    height: 81px;
+    border: 1px solid #cc9900;
+}
+
+.fifth-dish-title {
+    margin-top: 2%;
+    padding-left: 3%;
+    display: flex;
+    font-size: 21px;
+}
+
+.fifth-dish-line {
+    margin-left: 3%;
+    margin-top: 0.7%;
+    width: 430px;
+}
+
+.fifth-dish-describe {
+
+    padding-left: 3%;
+    font-size: 17px;
+    margin-top: 0.7%;
+}
+
+.fifth-dish-price {
+    margin-left: 62.8%
+}
+.third-menu-block {
+
+    margin-top: 1.2%;
+    margin-left: 66.25%;
+}
+.left-colom{
+    margin-left: 8.7%;
+    width: 837px;
+    overflow: hidden;
+    max-height: 880px;
+    max-width: 800px;
+}
+.right-colom{
+    overflow: hidden;
+    max-height: 870px;
+    max-width: 800px;
+    position: relative;
+    margin-left: 47%;
+    bottom: 84%;
+}
+
+.right-first-dish {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 2%;
+}
+
+.right-first-price {
+    padding-left: 43%;
+}
+
+.right-first-block {
+    font-weight: bold;
+    padding-top: 5.3%;
+    margin-left: 34.5%;
+    font-size: 35px;
+}
+
+.right-second-dish {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 3.8%;
+}
+
+.right-first-line {
+    margin-left: 18%;
+    margin-top: 0.7%;
+}
+
+.right-first-devider {
+    margin-left: 27%;
+    margin-top: 1%;
+}
+
+.right-second-block {
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 32.7%;
+}
+
+.right-second-devider {
+    margin-left: 29%;
+    margin-top: 1%;
+}
+
+.right-firsst-dish {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 3.5%;
+}
+
+.right-first-price {
+    padding-left: 35.5%;
+}
+
+.right-second-special {
+    margin-left: 66.5%;
+    margin-top: 1.7%;
+}
+
+.right-second-name {
+    margin-left: 18%;
+    width: 455px;
+    height: 81px;
+    border: 1px solid #cc9900;
+}
+
+.right-second-price {
+    padding-left: 63%;
+}
+
+.right-third-dish {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 3.3%;
+}
+
+.right-first-price {
+    padding-left: 40%;
+}
+
+.right-fouth {
+    display: flex;
+    font-size: 21px;
+    margin-left: 18%;
+    margin-top: 4%;
+}
+
+.right-fouse-price {
+    margin-left: 47.7%;
+}

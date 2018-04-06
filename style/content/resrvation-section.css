@@ -1,0 +1,125 @@
+input[class="second-input"] {
+    color: rgba(153, 153, 153, 0.8);
+    font-family: OpenSans-Italic;
+    font-size: 16px;
+    background: white url("../../image/ReservationSection/Calendar.png") no-repeat 95%;
+    border: rgba(153, 153, 153, 0.7) solid 1px;
+}
+.reserv {
+    margin-top: 49.7%;
+    width: 1600px;
+    height: 710px;
+}
+
+.present-image {
+    display: flex;
+    margin-top: 95px;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.cherry-reserv {
+    background: url("../../image/ReservationSection/CherryReserv.png");
+}
+
+.meet-reserv {
+    position: absolute;
+    margin-left: 115%;
+    background: url("../../image/ReservationSection/MeetReserv.png");
+}
+
+.reservation-title {
+    position: relative;
+    font-size: 32px;
+    margin-left: 5%;
+}
+
+.reservation-title h2 {
+    margin-left: 6%;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.reserv-menu {
+    font-weight: bold;
+    height: 507px;
+    margin-left: 59%;
+    padding-top: 87px;
+}
+
+.reservation-devider {
+    margin-left: 4.5%;
+}
+
+.reservaation-describe {
+    right:12%;
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: OpenSans-Regular;
+    width: 500px;
+    max-height: 135px;
+    max-width: 500px;
+}
+.first-title {
+    top: 87.76%;
+    position: absolute;
+    right: 40.8%;
+}
+
+.first-input {
+    top: 88.2%;
+    right: 30.8%;
+}
+
+.second-title {
+    display: flex;
+    position: absolute;
+    right: 41.55%;
+    top: 89.93%;
+}
+
+.second-input {
+    top: 89.2%;
+    right: 30.8%;
+    margin-top: 3.5%;
+}
+
+.third-foth {
+    margin-left: 31%;
+    border: 0;
+    height: 167px;
+}
+
+
+.booking {
+    position: absolute;
+    left: 65%;
+    bottom: 7.3%;
+    font-size: 16px;
+    cursor: pointer;
+    width: 200px;
+    height: 36px;
+    background: #cc9900;
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+.booking:hover {
+    background-color: rgba(200, 159, 45, 0.7)
+}
+
+form {
+    display: flex;
+}
+
+select {
+    margin-top: 0.9%;
+}
+
+select option {
+    margin-bottom: 50%;
+}

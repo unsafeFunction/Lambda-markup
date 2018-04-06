@@ -1,0 +1,8 @@
+body {
+    padding-bottom: 260px;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1600px;
+    background: rgba(246, 246, 246, 0.5) url("../../image/MenuSection/pattern.png");
+}
